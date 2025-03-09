@@ -1,0 +1,13 @@
+package com.stockmanagements;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class StockmanagementsApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
